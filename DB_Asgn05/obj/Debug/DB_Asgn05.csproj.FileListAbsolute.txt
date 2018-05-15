@@ -1,0 +1,7 @@
+C:\Users\rrgbi\source\repos\DB_Asgn05\DB_Asgn05\bin\Debug\DB_Asgn05.exe.config
+C:\Users\rrgbi\source\repos\DB_Asgn05\DB_Asgn05\bin\Debug\DB_Asgn05.exe
+C:\Users\rrgbi\source\repos\DB_Asgn05\DB_Asgn05\bin\Debug\DB_Asgn05.pdb
+C:\Users\rrgbi\source\repos\DB_Asgn05\DB_Asgn05\obj\Debug\DB_Asgn05.csprojResolveAssemblyReference.cache
+C:\Users\rrgbi\source\repos\DB_Asgn05\DB_Asgn05\obj\Debug\DB_Asgn05.csproj.CoreCompileInputs.cache
+C:\Users\rrgbi\source\repos\DB_Asgn05\DB_Asgn05\obj\Debug\DB_Asgn05.exe
+C:\Users\rrgbi\source\repos\DB_Asgn05\DB_Asgn05\obj\Debug\DB_Asgn05.pdb
